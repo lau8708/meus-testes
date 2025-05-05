@@ -1,4 +1,4 @@
-def soma(a,b):
+def adicao(a,b):
 
     return a+b
 
@@ -6,7 +6,7 @@ def soma(a,b):
 valor1 = int(input("Digite o primeiro valor: "))
 valor2 = int(input("Digite o segundo valor: "))
 
-resultado = soma(valor1,valor2)
+resultado = adicao(valor1,valor2)
 
 print(f"O resultado da soma {valor1}+{valor2} é: {resultado}")
 
